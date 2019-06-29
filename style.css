@@ -1,0 +1,101 @@
+
+body {
+    font-family: ‘Arial’, ‘Helvetica Neue’, Helvetica, sans-serif;
+    background-color: #777;
+    width: 100%;
+    font-size: 18px;
+}
+
+.containerMain {
+    width: 990;
+    margin: auto 0;
+
+}
+
+
+.header {
+    width: 990px;
+    height: 50px;
+    background-color: #ebebeb;
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+    align-content: center;
+   
+   
+}
+
+.topnav {
+    width: 990px;
+    height: 50px;
+    background-color: #ebebeb;
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+ 
+    
+} 
+
+
+.container1 {
+
+    width: 990px;
+    height: 400px;
+    background-color: #ebebeb;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 300px;
+    background-color: #777;
+    margin: 0 auto;
+    padding: 0;
+    position: absolute;
+    float: center;
+    
+
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 50px;
+    background-color: #ebebeb;
+    position: absolute;
+    top: 0;
+
+}
+
+.container4 {
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    height: 50px;
+    background-color: #ebebeb;
+    position: absolute;
+    bottom: 0;
+
+}
+
+.containerAside {
+    width: 495px;
+    height: 400px;
+    background-color: #ebebeb;
+    padding: 0;
+    float: right;
+}
+
+.footer {
+    width: 990px;
+    height: 50px;
+    background-color: #ebebeb;
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+    align-content: center;
+}
