@@ -1,2 +1,2 @@
 # Basic-Wireframe
-Basic wireframe sertup
+Basic wireframe setup
